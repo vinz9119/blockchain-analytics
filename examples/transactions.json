@@ -1,0 +1,23 @@
+[
+  {
+    "tx_hash": "demo-001",
+    "sender": "alice",
+    "recipient": "bob",
+    "asset": "SUI",
+    "amount": "2"
+  },
+  {
+    "tx_hash": "demo-002",
+    "sender": "alice",
+    "recipient": "carol",
+    "asset": "SUI",
+    "amount": "3"
+  },
+  {
+    "tx_hash": "demo-003",
+    "sender": "bob",
+    "recipient": "alice",
+    "asset": "USDC",
+    "amount": "7"
+  }
+]
